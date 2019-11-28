@@ -57,7 +57,7 @@
     color: #9D9D9E;
 }
 .main-left .music{
-    margin-left: 14px;
+
 }
 .music a{
     text-decoration: none;
@@ -66,11 +66,18 @@
 .music li{
     height: 40px;
     line-height: 40px;
-    margin-right: 14px;
-
+    list-style: none;
+    padding-left: 14px;
 }
 
 
 .mouse_general{
     background: darkgray;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+span.glyphicon{
+    margin-right: 10px;
 }
